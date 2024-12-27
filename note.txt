@@ -1,0 +1,9 @@
+/**
+ * This folder contains JavaScript practice code.
+ * 
+ * The code in this folder is used for practicing various JavaScript concepts and techniques.
+ * 
+ * Please refer to the individual files for specific examples and exercises.
+ * 
+ * This repository is saved on GitHub for version control and collaboration purposes.
+ */
